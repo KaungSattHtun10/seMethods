@@ -14,4 +14,5 @@
 
 
 # Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/KaungSattHtun10/seMethods/<action name taken from main.yml>/<branch>?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/KaungSattHtun10/seMethods/name taken from main.yml
+/<branch>?style=flat-square)
