@@ -11,3 +11,7 @@
 
 
 [![Releases](https://img.shields.io/github/release/KaungSattHtun10/sem/all.svg?style=flat-square)](https://github.com/KaungSattHtun10/sem/releases)
+
+
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/KaungSattHtun10/seMethods/<action name taken from main.yml>/<branch>?style=flat-square)
